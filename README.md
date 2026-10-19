@@ -2,23 +2,23 @@
 
 Homebrew tap for command-line tools maintained by @GabrielBaiano.
 
-## Installation
-
-Add this tap to your Homebrew installation:
+## Quick Install
 
 ```bash
-brew tap GabrielBaiano/tap
+brew install GabrielBaiano/tap/bonfire-pomodoro
 ```
 
 ## Available Formulae
 
-| Formula | Description | Install |
-| :--- | :--- | :--- |
-| `bonfire-pomodoro` | Dark Souls-themed 3D TrueColor ASCII Pomodoro timer | `brew install GabrielBaiano/tap/bonfire-pomodoro` |
+### [`bonfire-pomodoro`](https://github.com/GabrielBaiano/bonfire-pomodoro)
 
-## Usage
+Dark Souls-themed 3D TrueColor ASCII Pomodoro timer for Linux and macOS.
 
-### bonfire-pomodoro
+```bash
+brew install GabrielBaiano/tap/bonfire-pomodoro
+```
+
+#### Usage
 
 ```bash
 # Run the interactive 3D ASCII pomodoro
