@@ -4,7 +4,7 @@ class KeyCaster < Formula
   desc "Lightweight on-screen keystroke displayer for Linux (Wayland, COSMIC, X11)"
   homepage "https://github.com/GabrielBaiano/key-caster"
   url "https://github.com/GabrielBaiano/key-caster/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "f4d72e303dfe2dd98303f50264c5e12be5d46befc072e61429a43ec3e9b46906"
+  sha256 "d4b1147c372eda00b08bc88d09122485a6f0f8b72bae253f388b09d7dc75e487"
   license "GPL-3.0-or-later"
 
   depends_on :linux
