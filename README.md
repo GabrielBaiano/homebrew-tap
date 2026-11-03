@@ -30,3 +30,22 @@ fireplace
 # View past session history
 bonfire --history
 ```
+
+### [`key-caster`](https://github.com/GabrielBaiano/key-caster)
+
+Lightweight on-screen keystroke displayer for Linux (Wayland, COSMIC, X11). *(Linux only)*
+
+```bash
+brew install GabrielBaiano/tap/key-caster
+```
+
+#### Usage
+
+```bash
+# Start key-caster overlay
+key-caster
+
+# Or specify custom screen position and timeout
+key-caster --position bottom-right --timeout 2.0
+```
+
