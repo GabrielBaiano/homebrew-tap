@@ -5,30 +5,31 @@ Homebrew tap for command-line tools maintained by @GabrielBaiano.
 ## Quick Install
 
 ```bash
-brew install GabrielBaiano/tap/bonfire-pomodoro
+brew install GabrielBaiano/tap/ashen-pomodoro
 ```
 
 ## Available Formulae
 
-### [`bonfire-pomodoro`](https://github.com/GabrielBaiano/bonfire-pomodoro)
+### [`ashen-pomodoro`](https://github.com/GabrielBaiano/ashen-pomodoro)
 
-Dark Souls-themed 3D TrueColor ASCII Pomodoro timer for Linux and macOS.
+Soulsborne 3D TrueColor ANSI Pomodoro timer for Linux and macOS terminals (Dark Souls Bonfire, Bloodborne Hunter's Lamp, and Classic Wood Fireplace).
 
 ```bash
-brew install GabrielBaiano/tap/bonfire-pomodoro
+brew install GabrielBaiano/tap/ashen-pomodoro
 ```
 
 #### Usage
 
 ```bash
-# Run the interactive 3D ASCII pomodoro
-bonfire
+# Launch the interactive ASHEN setup menu
+ashen
 
-# Or via symlink
+# Or via compatibility aliases
+bonfire
 fireplace
 
 # View past session history
-bonfire --history
+ashen --history
 ```
 
 ### [`key-caster`](https://github.com/GabrielBaiano/key-caster)
@@ -48,4 +49,3 @@ key-caster
 # Or specify custom screen position and timeout
 key-caster --position bottom-right --timeout 2.0
 ```
-
