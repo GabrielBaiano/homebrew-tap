@@ -10,7 +10,9 @@ brew install GabrielBaiano/tap/ashen-pomodoro
 
 ## Available Formulae
 
-### [`ashen-pomodoro`](https://github.com/GabrielBaiano/ashen-pomodoro)
+<a href="https://github.com/GabrielBaiano/ashen-pomodoro">
+  <img src="https://raw.githubusercontent.com/GabrielBaiano/ashen-pomodoro/main/docs/media/ashen-logo.gif" alt="ashen-pomodoro" width="220">
+</a>
 
 Soulsborne 3D TrueColor ANSI Pomodoro timer for Linux and macOS terminals (Dark Souls Bonfire, Bloodborne Hunter's Lamp, and Classic Wood Fireplace).
 
